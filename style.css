@@ -1,0 +1,173 @@
+@font-face {
+    font-family: DynaPuff-Regular;
+    src: url(DynaPuff-Regular.ttf);
+}
+
+.imageCenter {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.imageCenter2 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.NavBar ul{
+    list-style-type: none;
+    background-color:  rgb(158, 4, 4);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    border-radius: 4px;
+    border: 4px;
+    border-style: dashed;
+}
+
+.NavBar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: DynaPuff-Regular;
+    display: block;
+    font-size: larger;
+}
+
+.NavBar a:hover{
+    background-color: rgb(92, 0, 0);
+}
+
+.NavBar li{
+    float:left
+}
+
+.News {
+    background-image: url(Images/NEWS.jpeg);
+    width: 650px;
+    height: 250px;
+    border: 3px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+}
+
+.News {
+    background-image: url(Images/NEWS.jpeg);
+    width: 650px;
+    height: 275px;
+    border: 3px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+}
+
+.News2 {
+    background-image: url(Images/NEWS.jpeg);
+    width: 650px;
+    height: 400px;
+    border: 3px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+}
+
+.backroundHomeText {
+    width: 100px;
+    height: 25px;
+    border-radius: 8px;
+    border-style: dashed;
+    border: 2px;
+    background-color: black;
+    color: white;
+    border-color: brown;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SpecialItems {
+    background-color: lightgray;
+    width: 550px;
+    height: 295px;
+    border: 3px;
+    border-radius: 8px;
+    border-style: solid;
+    display: block;
+}
+
+.Staff {
+    background-color: lightgray;
+    width: 500px;
+    height: 335px;
+    border: 3px;
+    border-radius: 8px;
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+}
+
+.Gameplay {
+    background-color: lightgray;
+    width: 500px;
+    height: 335px;
+    border: 3px;
+    border-radius: 8px;
+    border-style: solid;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    font-size: x-large;
+    font-family: DynaPuff-Regular;
+    text-decoration: none;
+}
+
+h3 {
+    text-align: center;
+    font-family: DynaPuff-Regular;
+}
+
+p {
+    text-align: center;
+    font-family: DynaPuff-Regular;
+}
+
+h2 {
+    font-family: DynaPuff-Regular;
+    text-align: center;
+    color: aqua;
+    background-color: black;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 3.5px;
+    border-style: dashed;
+    border-color: brown;
+    border-radius: 8px;
+}
+
+button {
+    width: 95px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: white;
+    font-family: DynaPuff-Regular;
+    background-color: green;
+    border-radius: 8px;
+    stroke: black;
+    stroke-width: 3px;
+}
+
+body {
+    background-color: bisque;
+}
